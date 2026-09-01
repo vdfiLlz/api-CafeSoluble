@@ -1,4 +1,4 @@
-package Models;
+package com.ni.edu.uam.api_cafeSoluble.models;
 import jakarta.persistence.*;
 
 @Entity
