@@ -15,6 +15,5 @@ public interface IProductoService  {
 
     Boolean deleteById(Long id);
 
-    Producto update(Long codProducto,Producto producto);
 
 }

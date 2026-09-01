@@ -71,4 +71,6 @@ public class Producto {
     public void setDisponible(Boolean disponible) {
         this.disponible = disponible;
     }
+
+
 }
